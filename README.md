@@ -1,4 +1,4 @@
-# Database Management Web Application
+# Student Management System
 
 A full-stack database-driven web application designed to manage student and course information through a structured relational database. The project combines a React frontend with a PHP backend and SQL database to provide an interactive interface for working with student, course, scheduling, and attendance data.
 
